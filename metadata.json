@@ -1,0 +1,6 @@
+{
+  "name": "Ideias pra vida",
+  "description": "Um sistema inteligente que detecta a API Key de IA automaticamente, bloqueia o conteúdo caso ausente, e exibe um mouse cartoon animado interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
